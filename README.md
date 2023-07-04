@@ -5,7 +5,7 @@
 [![GitHub 3vilcrow](https://img.shields.io/github/followers/3vilcrow?label=follow&style=social)](https://github.com/3vilcrow)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```js
 const carlos = {
