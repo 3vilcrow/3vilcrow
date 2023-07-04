@@ -1,7 +1,7 @@
 <h2> Hi, I'm Carlos Falcon 👨‍💻! </h2>
 
-[![Twitter: 3vilcrow](https://img.shields.io/twitter/follow/3vilcrow?style=social)](https://twitter.com/3vilcrow)
 [![Linkedin: 3vilcrow](https://img.shields.io/badge/-3vilcrow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/3vilcrow/)](https://www.linkedin.com/in/3vilcrow/)
+[![](https://img.shields.io/badge/Gmail-carlos.falcon.dev%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![GitHub 3vilcrow](https://img.shields.io/github/followers/3vilcrow?label=follow&style=social)](https://github.com/3vilcrow)
 
 
