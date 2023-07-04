@@ -5,13 +5,11 @@
 [![GitHub 3vilcrow](https://img.shields.io/github/followers/3vilcrow?label=follow&style=social)](https://github.com/3vilcrow)
 
 
- <img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"> <h3>  About me  </h3>
-
 ```js
 const carlos = {
   code: [Dart, Javascript, Typescript, HTML, CSS, C#],
   tools: [Flutter ,React, Redux, Node, Firebase, AWS, Docker],
-  architecture: ["microservices", "event-driven", "MVVC"],
+  architecture: ["microservices", "event-driven", "MVVM"],
 }
 ```
 
