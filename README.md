@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://apps.apple.com/es/app/id6809737775"><img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.twofacesco.app"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
-  <a href="https://app.twofacesco.com"><img src="https://img.shields.io/badge/Web-twofacesco.com-15161A?style=for-the-badge&logo=astro&logoColor=white" alt="TwoFaces website"/></a>
+  <a href="https://twofacesco.com"><img src="https://img.shields.io/badge/Web-twofacesco.com-15161A?style=for-the-badge&logo=astro&logoColor=white" alt="TwoFaces website"/></a>
 </p>
 
 I designed and built the **TwoFaces mobile app in Flutter** for iOS and Android: sellers scan a book's barcode, chat with the same AI agent that runs on WhatsApp, send photos and voice notes, and follow their orders, all in one place. It shares the backend, orders and history with the WhatsApp channel, using the phone number as the shared identity.
